@@ -4,11 +4,20 @@ import App from "./App";
 import "./index.css";
 import state from "./state";
 
+const currentCategory = 'tires'
+
+function changeCategory(category) {
+  category = currentCategory;
+  render()
+}
+
 function render() {
   ReactDOM.render(
     <App state={state} />,
     document.getElementById("root")
   );
 }
-render();
 
+
+render();
+export default changeCategory;

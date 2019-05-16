@@ -9,7 +9,7 @@ https://p.w3layouts.com/demos/spareparts/web/index.html
 ### Do
 * Read this entire section before you start coding
 
-* Take the html out of the App component and put in separate components. If a component file doesn't exist, create it.s
+* Take the html out of the App component and put in separate components. If a component file doesn't exist, create it.
   * Header 
     * look for div with a className of "top-header" (in App.js)
     * take that content and place it in the Header component

@@ -29,7 +29,7 @@ function Header() {
 						<div className="clear"> </div>
 						
 					</div>);
-}
+} 
 
 export default Header;
 
