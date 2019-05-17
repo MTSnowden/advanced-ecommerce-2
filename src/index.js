@@ -13,7 +13,7 @@ function changeCategory(category) {
 
 function render() {
   ReactDOM.render(
-    <App state={state} />,
+    <App state={state} changeCategory =currentCategory ={currentCategory} />,
     document.getElementById("root")
   );
 }
@@ -21,3 +21,4 @@ function render() {
 
 render();
 export default changeCategory;
+// need to export?
