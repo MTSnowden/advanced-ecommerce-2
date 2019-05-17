@@ -37,10 +37,10 @@ function Footer() {
 						<div className="col_1_of_4 span_1_of_4 footer-lastgrid">
 							<h3>Get in touch</h3>
 							<ul>
-								<li><a href="#"><img src="images/facebook.png" title="facebook" /></a></li>
-								<li><a href="#"><img src="images/twitter.png" title="Twiiter" /></a></li>
-								<li><a href="#"><img src="images/rss.png" title="Rss" /></a></li>
-								<li><a href="#"><img src="images/gpluse.png" title="Google+" /></a></li>
+								<li><a href="#"><img src="images/facebook.png" alt="f" title="facebook" /></a></li>
+								<li><a href="#"><img src="images/twitter.png" alt="t" title="Twitter" /></a></li>
+								<li><a href="#"><img src="images/rss.png" alt="r" title="Rss" /></a></li>
+								<li><a href="#"><img src="images/gpluse.png" alt="g" title="Google+" /></a></li>
 							</ul>
 							<p>Design by <a href="#">W3layouts</a></p>
 						</div>
